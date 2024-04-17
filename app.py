@@ -4,7 +4,7 @@ import os
 
 
 
-from PIL import Image
+#from PIL import Image
 #insert image path below
 #img = Image.open("/home/amang/vscode/ hard drive webapp/static/pics/felixsox1.PNG" )
 #print(img.width,img.height)
