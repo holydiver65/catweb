@@ -40,7 +40,7 @@ def index():
 
     
 
-@app.route("/history")
+@app.route("/history of cats")
 
 def cats():
     return render_template("history.html")
